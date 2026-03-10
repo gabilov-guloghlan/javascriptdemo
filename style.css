@@ -29,4 +29,11 @@ body .box .btn {
 }
 body .box input {
   margin: 10px 0;
+}
+body .minibox {
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 20px;
+  width: 100px;
+  hegiht: 100%;
 }/*# sourceMappingURL=style.css.map */
