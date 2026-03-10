@@ -4,7 +4,7 @@ $(document).ready(function () {
     $('.btn').click(function (e) {
         e.preventDefault();
 
-        let a = $.trim($('input').val());
+        let a = $.trim($('input').val(''));
 
         
 
@@ -32,3 +32,4 @@ $(document).ready(function () {
 
 
 });
+
